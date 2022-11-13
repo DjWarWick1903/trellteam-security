@@ -1,4 +1,4 @@
-package ro.trellteam.security.service;
+package ro.trellteam.security.service.v1;
 
 import com.auth0.jwt.interfaces.DecodedJWT;
 import com.fasterxml.jackson.databind.ObjectMapper;
