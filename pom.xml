@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>ro.trellteam</groupId>
-	<artifactId>trellteam-security</artifactId>
+	<artifactId>security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>trellteam-security</name>
 	<description>Trellteam service meant for security operations</description>
